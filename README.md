@@ -12,7 +12,9 @@ Language: C++
 
 ### OVERVIEW OF SYSTEM
 
-This project is a simple single-player tic tac toe game allowing a player to challenge the computer. User entries have been user validated to ensure smooth playing prevent app crashing. This app utitlized 2-D arrays to hold user's tic tac toe data.
+This project is a simple single-player tic-tac-toe game allowing a player to challenge the computer.  
+User entries have been user validated to ensure smooth playing prevent app crashing.  
+This app utitlized 2-D arrays to hold user's tic tac toe data.
 
 ### INSTRUCTIONS ON USE
 
