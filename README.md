@@ -4,14 +4,13 @@
 
 Bron Whitten
 
+![TicTacToePic](https://github.com/user-attachments/assets/b48eb065-934c-4e84-b5f7-1abd156a52b0)
+
 ### BUILD INFORMATION
 
 Language: C++
 
 ### OVERVIEW OF SYSTEM
-
-![TicTacToePic](https://github.com/user-attachments/assets/b48eb065-934c-4e84-b5f7-1abd156a52b0)
-
 
 This project is a simple single-player tic tac toe game allowing a player to challenge the computer. User entries have been user validated to ensure smooth playing prevent app crashing. This app utitlized 2-D arrays to hold user's tic tac toe data.
 
