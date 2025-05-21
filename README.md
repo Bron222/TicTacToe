@@ -16,10 +16,11 @@ This project is a simple single-player tic tac toe game allowing a player to cha
 
 ### INSTRUCTIONS ON USE
 
-Upon opening the program, follow the on-screen instructions and name your character and the computer's character.  
-Follow the instruction to enter a row and column to sumbit your location on the board.  
-The computer will then take a turn and the user will be prompted to go again. If errors occur, follow the directions on-screen to continue properly.  
-As soon as either the player or computer have scored. The game will end and announce the winner. 
+- Upon opening the program, follow the on-screen instructions and name your character and the computer's character.  
+- Enter a row and column to sumbit your location on the board as instructed.  
+- The computer will then take a turn and the user will be prompted to go again.
+- If errors occur, follow the directions on-screen to continue properly.  
+- As soon as either the player or computer have scored. The game will end and announce the winner. 
 
 ### SPECIAL NOTES
 
